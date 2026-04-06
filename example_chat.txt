@@ -1,0 +1,5 @@
+Alice: Hey team, how's the new project going? We need to finish the AI summarizer by Friday.
+Bob: It's progressing well but we're stuck on the TF-IDF implementation. The preprocessing step is taking too long.
+Charlie: I think we should use a pretrained model like BART instead for better results on chat messages.
+Alice: That might be overkill. Let's stick with TF-IDF for now and add CLI support.
+Bob: Agreed. Also need to handle multiple file inputs.
